@@ -16,21 +16,23 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+to open commandpallet pres command-k or ctrl-k
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+the commandpallet can be used to navigate thrue pages.
 
-## Learn More
+typescript is used(but i have little to no knowledge on how to use types. So regual javascript expressions were used)
 
-To learn more about Next.js, take a look at the following resources:
+the stack used in this project:
+-nextjs: easy of use (most used metaframework for react)(have little experience with react, only started a month ago)
+-tailwindcss (easy of use + works great with nextjs)
+-headless ui (components fitted the best for making a commandpallet)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+focus of the project:
+Creating the look of the commpand pallet, for back-end data we used a jsonfile.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+difficulties during the project:
+Since being a newcomer to react. Working with useState and state management/use effect was a challange.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
