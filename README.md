@@ -24,8 +24,11 @@ typescript is used(but i have little to no knowledge on how to use types. So reg
 
 the stack used in this project:
 -nextjs: easy of use (most used metaframework for react)(have little experience with react, only started a month ago)
+
 -tailwindcss (easy of use + works great with nextjs)
+
 -headless ui (components fitted the best for making a commandpallet)
+
 
 focus of the project:
 Creating the look of the commpand pallet, for back-end data we used a jsonfile.
