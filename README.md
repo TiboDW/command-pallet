@@ -33,7 +33,7 @@ typescript is used(but i have little to no knowledge on how to use types. So reg
 
 ### focus of the project:
 
-Creating the look of the commpand pallet, for back-end data we used a jsonfile.
+Creating the look of the commpand pallet, for back-end data i used a jsonfile.
 
 ### difficulties during the project:
 
