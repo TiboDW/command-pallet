@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 to open commandpallet pres command-k or ctrl-k
 
-the commandpallet can be used to navigate thrue pages.
+the commandpallet can be used to navigate through pages.
 
 typescript is used(but i have little to no knowledge on how to use types. So regual javascript expressions were used)
 
